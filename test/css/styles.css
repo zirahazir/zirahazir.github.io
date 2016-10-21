@@ -1,1 +1,84 @@
 
+.img{
+    		background: url('logo.jpg');
+    		background-position: center;
+    		background-repeat: no-repeat;
+            padding: 20px;
+            border: 3px solid black;
+            height: 400px;
+            margin: 0;
+            border-style: hidden;
+    	}
+
+  	div.header_text{
+	color: black;
+	text-align:center;
+	padding:15px 0 20px 0;
+	font-size:16px;
+	line-height:30px;
+	border-bottom:1px solid #fff;
+	border-style: dashed;
+	background-color: pink;
+}
+
+div.below{
+	
+	padding: 20px;
+    border: 3px solid black;
+    height: 400px;
+    margin: 0;
+}
+
+.service{	
+	margin-top:3px;
+	padding:3px;	
+	text-align:center;
+	border-bottom:1px solid #eee;
+	padding:5px 5px 0 5px;
+	width: 370px;
+}
+
+#box2{	
+	    height: 102px;
+}
+
+#box3{	
+	   
+	    height: 102px;
+}
+
+#box1{
+	
+	height: 102px;
+
+}
+
+.service:hover img{
+	-webkit-transition: all 0.7s linear;
+	-webkit-transform: rotate(6.28rad);
+	transition: all 0.7s;
+	transform: rotate(6.28rad);
+}
+
+.service div{	
+	padding:5px 5px 0 5px;
+	background-color: grey;
+	height: 100px;
+	border-radius: 25px;
+	
+}
+
+.navbar-brand, .navbar-nav>li>a {
+    text-shadow: 0 1px 0 #a94442;
+}
+
+.container-fluid{
+	background-color: #F3EEF2;
+	color: black;
+	font-family: 'Bungee Inline', cursive;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #8e5198;
+}
+
