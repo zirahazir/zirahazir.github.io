@@ -171,14 +171,17 @@ legend {
   max-width: 1190px;
 }
 
-.s002 form legend {
-  font-size: 60px;
+.s002 .row {
+  font-family: 'Bitter', serif;
+  font-size: 80px;
   line-height: 1;
-  color: rgb(7, 6, 6);
+  color: rgba(255, 255, 255, 0.884);
   margin-bottom: 60px;
   font-weight: 400;
   text-align: center;
+  text-shadow: 3px 3px rgb(5, 4, 4);
 }
+
 
 .s002 form .inner-form {
   background: rgba(0, 0, 0, 0.5);
