@@ -364,7 +364,7 @@ img {
   }
 }
 
-@media screen and (max-width: 410px) {
+@media screen and (max-width: 399px) {
   .service {
     margin-top: -5%;
   }
