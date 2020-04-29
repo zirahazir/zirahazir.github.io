@@ -347,7 +347,7 @@ img {
 
 @media screen and (max-width: 600px) {
   .service {
-    margin-top: -10%;
+    margin-top: 10%;
   }
   .s002 .row1 {
     font-size: 50px;
